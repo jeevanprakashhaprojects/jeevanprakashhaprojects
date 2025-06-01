@@ -13,7 +13,7 @@
 - 🎯 Strong foundation in robotics, programming, and mathematical problem-solving  
 - 💡 Creative thinker and quick learner who thrives on solving complex challenges  
 - 👯 Looking to collaborate with fellow roboticists and contribute to real-world projects  
-- 🤝 Open to job opportunities in AI, Robotics, and related fields  
+- 🤝 Open to job opportunities in ML, Robotics, and related fields  
 - 📬 Reach me: **jeevanvitwork@gmail.com**
 
 ---
