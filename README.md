@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jeevan Prakash HA!</h1>
 
 <p align="center">
-  <i>Making Contributions in Robotics and Projects from Various Fields. Always curious and eager to learn.</i>
+  <i>Making Contributions in ML and Projects from Various Fields. Always curious and eager to learn.</i>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👨‍🎓 About Me
 
 - 💻 B.Tech in Computer Science Engineering (AI & Robotics specialization)  
-- 🤖 Aspiring AI and Robotics Engineer with hands-on experience in embedded systems and programming  
+- 🤖 Aspiring AI and ML Engineer with hands-on experience in embedded systems and programming  
 - 🎯 Strong foundation in robotics, programming, and mathematical problem-solving  
 - 💡 Creative thinker and quick learner who thrives on solving complex challenges  
 - 👯 Looking to collaborate with fellow roboticists and contribute to real-world projects  
@@ -21,9 +21,8 @@
 ### 🛠️ Skills & Technologies
 
 **🔧 Robotics:** Arduino, Sensors, Motors, ROS  
-**🌐 Web Dev:** HTML5, CSS3, JavaScript, ReactJS, Flask, Node.js  
-**💻 Programming Languages:** Python, C, C++, Java, R  
-**📊 Data Science:** NumPy, Pandas, scikit-learn  
+**💻 Programming Languages:** Python, C, C++  
+**📊 Data Science:** NumPy, Pandas, scikit-learn
 **🗃️ Databases:** MySQL  
 **🧠 Problem Solving:** Competitive programming and algorithmic thinking
 
