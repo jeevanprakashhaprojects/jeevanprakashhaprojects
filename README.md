@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jeevan Prakash HA!</h1>
 
-<!--
-**jeevanprakashhaprojects/jeevanprakashhaprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Making Contributions in Robotics and Projects from Various Fields. Always curious and eager to learn.</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+
+- 💻 B.Tech in Computer Science Engineering (AI & Robotics specialization)  
+- 🤖 Aspiring AI and Robotics Engineer with hands-on experience in embedded systems and programming  
+- 🎯 Strong foundation in robotics, programming, and mathematical problem-solving  
+- 💡 Creative thinker and quick learner who thrives on solving complex challenges  
+- 👯 Looking to collaborate with fellow roboticists and contribute to real-world projects  
+- 🤝 Open to job opportunities in AI, Robotics, and related fields  
+- 📬 Reach me: **jeevanvitwork@gmail.com**
+
+---
+
+### 🛠️ Skills & Technologies
+
+**🔧 Robotics:** Arduino, Sensors, Motors, ROS  
+**🌐 Web Dev:** HTML5, CSS3, JavaScript, ReactJS, Flask, Node.js  
+**💻 Programming Languages:** Python, C, C++, Java, R  
+**📊 Data Science:** NumPy, Pandas, scikit-learn  
+**🗃️ Databases:** MySQL  
+**🧠 Problem Solving:** Competitive programming and algorithmic thinking
+
+---
+
+### 🌐 Socials
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jeevan-prakash-b3846a211)
+- 📄 [Resume](https://resume.jeevanvitwork.workers.dev/)
+- 🧠 [LeetCode](https://leetcode.com/)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanprakashha&show_icons=true&theme=tokyonight" alt="Jeevan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanprakashha&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevanprakashha&theme=onedark&row=1&no-bg=true&margin-w=30" alt="trophies" />
+</p>
+
+---
+
+### 📫 Let’s Connect & Collaborate!
+💬 Ask me anything related to robotics, coding, or AI projects. Always happy to discuss and learn!
+
