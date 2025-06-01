@@ -54,5 +54,5 @@
 ---
 
 ### 📫 Let’s Connect & Collaborate!
-💬 Ask me anything related to robotics, coding, or AI projects. Always happy to discuss and learn!
+💬 Ask me anything related to robotics, coding, or ML projects. Always happy to discuss and learn!
 
