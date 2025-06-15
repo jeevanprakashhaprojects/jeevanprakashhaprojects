@@ -36,6 +36,35 @@
 
 ---
 
+## 🌐 Socials
+
+- 🔸 [![LeetCode](https://img.shields.io/badge/LeetCode-Jeevan%20Prakash-orange?style=flat&logo=leetcode)](https://leetcode.com/)
+- 🔹 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeevan%20Prakash-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+
+---
+
+## 💻 Tech Stack
+
+### Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+
+### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Data Science:
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### Other:
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
